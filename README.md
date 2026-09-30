@@ -45,17 +45,7 @@ The objective of this project was to transform movie data into an interactive an
 
 ## 📷 Dashboard Preview
 
-### Home Page
-![Dashboard Home](images/home.png)
-
-### Movie Overview
-![Movie Overview](images/movie-overview.png)
-
-### Directors Analysis
-![Directors Analysis](images/directors-analysis.png)
-
-### Trends Over Time
-![Trends Over Time](images/trends-over-time.png)
-
-### Movie Details
-![Movie Details](images/movie-details.png)
+![Dashboard Home](Screenshots/HomePage.png)
+![Movie Overview](Screenshots/Overview.png)
+![Directors Analysis](Screenshots/Directors.png)
+![Trends Over Time](Screenshots/TrendsOverTime.png)
