@@ -1,6 +1,3 @@
-# IMDb-Top-250-PowerBI
-Interactive Power BI dashboard for analyzing IMDb Top 250 movies, ratings, directors, genres, and trends.
-
 # IMDb Top 250 Movie Analytics Dashboard
 
 An interactive Power BI dashboard designed to analyze IMDb Top 250 movies and uncover insights about ratings, directors, genres, certificates, votes, and trends over time.
